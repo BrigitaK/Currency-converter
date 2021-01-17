@@ -2,4 +2,4 @@
 
 This project is for educational porpuses only.
 
-Site published at brik.lt/atstumu-api/currency.php.
+Site published at http://brik.lt/atstumu-api/currency.php.
