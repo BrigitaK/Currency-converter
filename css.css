@@ -1,0 +1,47 @@
+.block {
+    display: inline-block;
+    float: left;
+    width: 900px;
+    margin-left: calc(50% - 450px);
+    margin-top: 100px;
+    border: 1px solid #E5E5E5;
+    border-radius: 20px;
+}
+h1 {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.column {
+    display: inline-block;
+    float: left;
+    width: 180px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+.convert-btn {
+    display: inline-block;
+    float: left;
+    margin-top: 22px;
+    padding: 6px 30px;
+    margin-left: 30px;
+    border: 2px solid #E5E5E5;
+    border-radius: 10px;
+    background-color: transparent;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.convert-btn:hover {
+    background-color:  #ECECEC;
+    color: #3C3A3A;
+    font-weight: 600;
+    text-transform: uppercase;
+    outline: #1F1F1F;
+}
+.ans {
+    display: inline-block;
+    float: left;
+    width: 100%;
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
